@@ -4,6 +4,7 @@
 #include <coroutine>
 #include <functional>
 #include <iosfwd>
+#include <string>
 
 #include "ces/utils/event-info.h"
 #include "ces/utils/time-fwd.h"
